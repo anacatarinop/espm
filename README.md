@@ -40,8 +40,7 @@ Este repositório está licenciado sob a [MIT License](https://github.com/tech-e
 
 Caso queira entrar em contato comigo, você pode me encontrar através dos seguintes meios:
 
-- Email: [seu_email@example.com](mailto:seu_email@example.com)
-- Website: [seu_website.com](http://seu_website.com)
+- Email: [anacatarinop@gmail.com](mailto:anacatarinop@gmail.com)
 
 Fique à vontade para me contatar se tiver alguma dúvida, sugestão ou apenas queira trocar algumas ideias.
 
